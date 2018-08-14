@@ -1,1 +1,1 @@
-# AGI
+# Git for Newbies (Training)
