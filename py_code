@@ -1,4 +1,8 @@
+
+### Git
+
 start notepad++ "filename"
-git commit am "filename"
+git commit -am "filename"
+git status
 
 solar_system = ["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn"]
