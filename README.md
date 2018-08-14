@@ -1,2 +1,0 @@
-# AGI
-# Git-for-Newbies
