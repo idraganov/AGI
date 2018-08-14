@@ -4,5 +4,7 @@
 start notepad++ "filename"
 git commit -am "filename"
 git status
+git push origin master
+
 
 solar_system = ["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn"]
