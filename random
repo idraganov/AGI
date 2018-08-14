@@ -1,10 +1,12 @@
 
-### Git
+### Training workshop Git 30min
 
+git clode "link"
 start notepad++ "filename"
-git commit -am "filename"
-git status
+git add "filename" # adds a file to staging
+git commit -m "some message" # save a version
+
+git commit -am # in one step add and commit
+
+git status # shows the current status of repository
 git push origin master
-
-
-solar_system = ["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn"]
