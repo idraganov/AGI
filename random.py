@@ -6,7 +6,7 @@ start notepad++ "filename"
 git add "filename" # adds a file to staging
 git commit -m "some message" # save a version
 
-git commit -am # in one step add and commit
+git commit -am "some message" # in one step add and commit
 
 git status # shows the current status of repository
 git push # origin master - send changes to the repository
@@ -22,11 +22,13 @@ Resolve them
 
 ### Branching ###
 Each branch has a version of the repository with its own commit history and current version
+
 git branch # all current branches
 git branch <branch name>
 
-git checkout # switch to the new branch
+git checkout <branch name> # switch to the new branch
 git merge <branch name> # merges a branch to the master branch (be careful of merge conflicts).
 
+git branch -D <branch name> # delete the branch
 
 
