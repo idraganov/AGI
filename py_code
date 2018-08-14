@@ -1,1 +1,4 @@
+start notepad++ "filename"
+git commit am "filename"
+
 solar_system = ["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn"]
