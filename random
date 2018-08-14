@@ -1,7 +1,7 @@
 
-### Training workshop Git 30min
+### Training workshop (Git) - 15 min
 
-git clode "link"
+git clone "link" # clones to local
 start notepad++ "filename"
 git add "filename" # adds a file to staging
 git commit -m "some message" # save a version
@@ -9,4 +9,10 @@ git commit -m "some message" # save a version
 git commit -am # in one step add and commit
 
 git status # shows the current status of repository
-git push origin master
+git push # origin master - send changes to the repository
+git pull # pull from repository to my PC
+
+
+### Merge Conflicts
+
+
