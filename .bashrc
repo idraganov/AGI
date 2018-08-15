@@ -1,0 +1,1 @@
+alias npp='start notepad++.exe -multiInst'
